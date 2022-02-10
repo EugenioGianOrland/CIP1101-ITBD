@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content= "Gian Orland Eugenio">
+    <title>
+        HANDS ON EXERCISE 1</title>
+    <link rel="icon" href="gioo.jpg" type="image/x-icon">    
+</head>
+
+<body>
+    <!--LARGEST HEADLINE (1-6)-->
+    <hr width="90%" size="3" color="red" align="left" NOSHADE>
+    <h1> Heading 1</h1>
+    <h2> Heading 2 </h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+
+    
+
+    <p>This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. </p>
+    
+    <div align="right">
+    <p>This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. This is an example of paragraph. </p></div>
+
+    <div align="justify">
+    <p><dd>
+        Hi, I’m Gian Orland Eugenio.<sup>1</sup> And this turned out to be my story from my childhood years. The most memorable incident that happened to me when I was young was when I was playing Tumbang Preso with my friends and I was the guard at the can and then a can hit me on the head and then they called my parents because they said I was dizzy and almost take to the hospital because there is already blood. And another incident for me that I will never forget is when I was a child, when we went to the mall to go shopping because I was a child, right? My cousin who was watching over me said that I was very ugly. Then after a few minutes I was running. I suddenly disappeared and they couldn't find me. I just cried on one side and a cashier approached me and even announced at the mall that a child was missing and I still don't know what my name is because I'm only about 2 or 3 years old. They seem so nervous mommy because I'm missing e. Then when they heard the announcement that there was such a child who was said to be missing, they hurried to go there, and my cousin who was watching over me was ashamed because he had neglected me at that time. From then on, they never left me and never lost sight of me every time we went to the mall. Those are the only things I remember when I was young.
+    </dd></p></div>
+
+    <div align="center">
+    <p><dd>
+        This is an example of paragraph with indention. This is the start. This is an example of paragraph with indention. This is the start. This is an example of paragraph with indention. This is the start. This is an example of paragraph with indention. This is the start. This is an example of paragraph with indention. This is the start. This is an example of paragraph with indention. This is the start. This is an example of paragraph with indention. This is the start. 
+    
+    </dd></p></div>
+
+    <hrwidth="90%" size="3" color="red" align="right" NOSHADE>
+    <p title="Use of HR tag with attributes">Title <b><i><u>Attribute</u></i></b> Use of HR</p>
+    <h2>Use of HR</h2>
+    <pre>
+        This is the  use of
+            Pre 
+
+    and another one right here........        
+    </pre>
+
+    <b>Bold</b> <br>
+    <i>Italicized</i> <br>
+    <ins>Underline</ins> <br>
+    <tt>Monospace</tt> <br>
+    <strike>StrikeTrough</strike>
+</body>
+</html>
